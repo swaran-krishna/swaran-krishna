@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 ### 📬 Let's Connect
 
 - 📧 Email:swarankrishna07@gmail.com
-- 🔗 Portfolio: [Add link here]
+- 🔗 Portfolio:https://swaran-krishna.github.io/AnalyticsBySwaran.github.io/
 - 🔗 LinkedIn:www.linkedin.com/in/swaran-krishna-68003a372
 
 ---
